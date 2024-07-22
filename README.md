@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Data Structures in C++</title>
+    
 </head>
 <body>
 
